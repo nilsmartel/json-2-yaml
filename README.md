@@ -4,9 +4,16 @@ cli to convert json to yaml
 
 ## Installation
 
+Installation from source
+
 ```bash
 # at the root of the project
 cargo install --path . --force
+```
+
+Installation from crates.io
+```bash
+cargo install json-2-yaml
 ```
 
 ## Usage
