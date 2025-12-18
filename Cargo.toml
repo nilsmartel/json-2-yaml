@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT"
 description = "cli tool to convert json to yaml"
+repository = "github.com/nilsmartel/json-2-yaml"
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
