@@ -23,4 +23,4 @@ Options:
   -o, --output <OUTPUT>  Output YAML file (optional)
   -h, --help             Print help
   -V, --version          Print version
-  ```
+```
